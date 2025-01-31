@@ -19,7 +19,11 @@ This is a Ticket Management System built using the Laravel Blade Template.
 ## Panels
 - **Admin Panel:** Manage users, agents, developers, tickets, and communications.
 - **Agent Panel:** View and manage assigned tickets, chat with users and developers.
-- **User Panel:** Create tickets, chat with assigned agents.
+- **Developer Panel:** View assigned tickets by admin and agent, chat with users and agents.
+- **User Panel:** Create tickets, chat with assigned agents,users and developers.
+
+## License
+This project is licensed under the [MIT License](LICENSE).
 
 ## Contributing
 Feel free to fork this repository and submit pull requests.
